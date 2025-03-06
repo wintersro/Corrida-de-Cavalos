@@ -1,6 +1,8 @@
 # 🏇 CORRIDA DE CAVALOS 
 Um jogo interativo de corrida de cavalos desenvolvido com HTML, CSS e JavaScript, onde o jogador pode escolher seu cavalo favorito e torcer para ganhar!
 
+![](assets/Capa.png)
+
 ## Descrição 📖
 Neste jogo, o usuário escolhe um cavalo entre os competidores antes de iniciar a corrida. Após a corrida, o jogo destaca o cavalo vencedor e informa se o usuário fez a escolha certa. Com animações, letreiro piscante e uma pista personalizada, o jogo é simples, divertido e fácil de entender.
 
@@ -65,4 +67,4 @@ Para executar esse projeto em seu amiente de desenvolvimento local, siga estas e
 ## Contribuições 🤝
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-Divirta-se com o jogo de corrida de cavalos! 🏁✨
+Divirta-se com o jogo de Corrida de Cavalos! 🏁✨
